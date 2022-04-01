@@ -1,0 +1,34 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "",
+	"FriendlyName": "UltimateFPSTemplate",
+	"Description": "Ultimate Multiplayer FPS Template",
+	"Category": "Ultimate First Person Shooter Template",
+	"CreatedBy": "Sneaky Kitty Game Dev",
+	"CreatedByURL": "https://www.youtube.com/channel/UCYcDJPGvIUFxBTmXOZWFswQ",
+	"DocsURL": "https://www.youtube.com/playlist?list=PLnHeglBaPYu_xCEu52VCDaqzhbV2ScvpU",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/4986d4f5b73148deb154e1cd31dd9623",
+	"SupportURL": "https://discord.gg/W5g6pZXfjh",
+	"EngineVersion": "4.26.0",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "UltimateFPSTemplate",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "Niagara",
+			"Enabled": true
+		}
+	]
+}
